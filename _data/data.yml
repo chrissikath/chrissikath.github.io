@@ -15,37 +15,34 @@ sidebar:
     # Sidebar links
     email: christina.k.kuhn@gmail.com
     # phone: 
-    timezone: Germany
+    timezone: Germany/Berlin
     citizenship: Deutsch
     # website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/christina-kuhn-2047381a9/
+    linkedin:christina-kuhn-2047381a9
     #xing: alandoe
     github: https://github.com/chrissikath
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     # twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: German
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
+          
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Boulderin
           link:
 
         - item: Snowboarding
@@ -54,40 +51,37 @@ sidebar:
         - item: Cooking
           link:
 
+        - item: Reading
+          link: 
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Qualified bioinformatician with a master's degree in bioinformatics and practical experience in research and data science/analysis through employment as a research assistant and a master thesis about therapy response prediction based on artificial neural networks. High ability to work independently and in a structured manner in data-driven software projects, acquired through freelance work and successful completion of data exploration projects during study. Demonstrated proficiency in teamwork, time management and interpersonal skills during a long-lasting career as a competitive gymnast and a gymnastics coach.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Boinformatics
+        university: University of Leipzig, Germany
+        time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Master’s Thesis: Prediction of Immunotherapy Response in Melanoma Patients based on Machine Learning
+          Grade: 1.1
+      - degree: Exchange Program 
+        university: CQUniversity Melbourne, Australia
+        time: 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Grade: High Distinction (HD)Grade: High Distinction (HD)
+            International Student Exchange Program completed 4 courses:
+            - System Analysis
+            - Software Design & Development
+            - Data Science 
+            - Graduate Employment Skills
+      - degree: BSc in Bioinformatics
+        university: Goehte University Frankfurt, Germany
+        time: 2015 - 2018
+        details: |
+          Grade: 2.0
 
 experiences:
     title: Experiences

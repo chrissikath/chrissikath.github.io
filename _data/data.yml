@@ -17,18 +17,18 @@ sidebar:
     phone: 
     timezone: Germany/Berlin
     citizenship: Deutsch
-    #website: blog.webjeda.com #do not add http://
+    website: blog.webjeda.com #do not add http://
     linkedin: christina-kuhn-2047381a9
-    #xing: alandoe
+    xing: alandoe
     github: https://github.com/chrissikath
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -84,14 +84,23 @@ education:
           Grade: 2.0
 
 experiences:
-    title: Professional Experience
+    title: Experiences
     info:
       - role: Lead Developer
-        time: 2021 - Present
-        company: Research Assistant/Doctoral Candidate Bioinformatics
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-          Rudolf-Schönheimer Institute, Medical Faculty Leipzig
-          - Thesis: Bioinformatics analysis of omics data in cancer research
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
